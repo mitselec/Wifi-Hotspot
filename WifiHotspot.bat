@@ -55,6 +55,6 @@ if %_option%==4 (netsh wlan stop hostednetwork
 If %_option%==5 exit
 
 ::Any other keystroke::
-set /p=Invalid input.Press any key to return to menu...
+set /p=Invalid input.Press Enter to return to menu...
 goto Start 
 	
