@@ -21,7 +21,7 @@ echo * 5.Exit                                        *
 echo *************************************************
 
 ::          Variables                   ::
-::  _option = menu choice               ::
+:: _option = menu choice                ::
 :: _SSID = name of the network          ::
 :: _password = password for the network ::
 
