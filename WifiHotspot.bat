@@ -28,7 +28,7 @@ echo *************************************************
 
 :: Main Program  ::
 :: Input of user ::
-set /p _option=Enter your input :
+set /p _option=Enter your input,then press Enter :
 
 :: Option cases and result ::
 
